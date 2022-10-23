@@ -1,0 +1,5 @@
+2022-10-23 21:29:32 info: tempDirectory:/home/prajakta/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2022-10-23 21:29:32 info: Extraction complete for source: /home/prajakta/.vscode/extensions/embold-vscode.embold-0.1.4/resources/embold-scanner-archive.zip, destination: /home/prajakta/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2022-10-23 21:29:32 info: Congratulations, your extension "Embold" is now active!
+2022-10-23 21:43:02 info: file:///home/prajakta/Desktop/github-finder/.git
+2022-10-23 21:43:02 error: SQLITE_ERROR: no such table: issues
